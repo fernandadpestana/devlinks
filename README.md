@@ -1,7 +1,7 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-Um agregador de links desenvolvido durante os estudos de HTML, CSS e JavaScript.
+Um agregador de links desenvolvido durante os estudos de HTML, CSS e JavaScript, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -20,15 +20,14 @@ Um agregador de links desenvolvido durante os estudos de HTML, CSS e JavaScript.
 
 Este projeto foi desenvolvido utilizando:
 
-- HTML5
-- CSS3
+- HTML e CSS
 - JavaScript
-- Git
-- GitHub
+- Git e Github
+- Figma
 
 ## 💻 Projeto
 
-O DevLinks é uma página de links inspirada no projeto da Rocketseat e personalizada durante meus estudos de desenvolvimento web.
+O DevLinks é um agregador de links para usar como cartão de visitas online, inspirado no projeto da Rocketseat e personalizado durante meus estudos de desenvolvimento web.
 
 O objetivo do projeto foi praticar:
 
@@ -36,6 +35,11 @@ O objetivo do projeto foi praticar:
 - Estilização com CSS;
 - Manipulação do DOM com JavaScript;
 - Versionamento com Git e GitHub.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto original através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 
 ## ▶️ Como executar
 
